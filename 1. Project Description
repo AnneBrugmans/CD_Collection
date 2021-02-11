@@ -1,12 +1,15 @@
 # Database_CD_Collection
+
 Database design with relationship structure
 Project to practice SQL skills
 
-Started with Oma's CD Collection ERD to plan relationhip adn structure of database
-Trial adn error of SQL code to establish correct steps to take
+Started with Oma's CD Collection ERD to plan relationhip and structure of database
+Trial and error of SQL code to establish correct steps to take
 
 Next step was to rerun code to ensure structure was sound outlining all relationship 
-Checked schema for correctedness or error 
 
-Final step was to correct SQL code and rerun to ensure structure and relationshop correctness
-Final schema prepared outlining structure adn relationship correctness 
+Final step was to correct SQL code and rerun under new name and ensure structure 
+Tested and checked against ERD plan
+
+Correction was needed to define proper relationship 
+Final schema prepared outlining structure and relationship correctness
